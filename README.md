@@ -1,4 +1,4 @@
-# DolaB
+# shoppy
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center">Hi 👋, this is DolaB App 👑</h1>
+<h1 align="center">Hi 👋, this is shoppy App 👑</h1>
 <h2 align="center">E-commerce App 💎</h2>
 
 
