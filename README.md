@@ -23,8 +23,8 @@
 <img src="shots/intro/1.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="shots/intro/2.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="shots/intro/3.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="shots/intro/4.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="shots/intro/5.jpg" height="500em" />
-# Home Page & Product Screen
 
+# Home Page & Product Screen
 <img src="shots/static/4.jpg" height="500em" />
 <img src="shots/static/5.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="shots/static/6.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="shots/static/7.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="shots/static/8.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;
