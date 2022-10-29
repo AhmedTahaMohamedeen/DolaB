@@ -1,0 +1,26 @@
+
+
+String email='ahmed@gmail.com';
+String password='123456';
+
+
+  var auth=Provider.of<AuthProvider>(context,listen: false);
+                                auth.email=email!;
+                                auth.password=password!;
+                                if ( await auth.logIn())
+                                {
+
+                                  //  if ( authProvider.user!.emailVerified){
+                                  Navigator.pushNamedAndRemoveUntil(context, Home.route,(route)=>false);
+
+                                  // } else{Navigator.pushNamed(context, VerifyScreen1.route,);}
+
+
+                                }
+                                else{
+                                  Navigator.pop(context);
+                                  debugPrint('login error');
+                                  ScaffoldMessenger.of(context).showSnackBar(
+                                      SnackBar(content: Text(auth.error.toString()))
+                                  );
+                                }
